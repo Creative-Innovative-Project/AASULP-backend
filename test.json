@@ -1,0 +1,43 @@
+{'quiz': [
+    {'title': 'Which of the following is the most important element of active listening?', 'options': "Hearing every word<I>Understanding the speaker's perspective<I>Waiting for your turn to speak<I>Formulating your response while listening", 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': "What does 'attending' refer to in the context of active listening?", 'options': 'Ignoring distractions and focusing on the speaker<I>Only hearing the words being spoken<I>Mentally rehearsing what you want to say<I>Multitasking while the speaker is talking', 'correct_answer': '1', 'chosen_answer': None
+    },
+    {'title': 'Using nonverbal cues, such as nodding, is an example of:', 'options': "Interrupting the speaker<I>Showing disrespect<I>Demonstrating that you're paying attention<I>Dominating the conversation", 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'What is paraphrasing in active listening?', 'options': "Repeating the speaker's exact words<I>Summarizing the speaker's message in your own words<I>Changing the speaker's message to fit your understanding<I>Ignoring the speaker's message", 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': 'Why is asking clarifying questions important in active listening?', 'options': "To interrupt the speaker<I>To show that you're smarter than the speaker<I>To ensure you understand the speaker's message accurately<I>To change the subject", 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'Which of the following is NOT a barrier to active listening?', 'options': 'Prejudice<I>Daydreaming<I>Empathy<I>Distractions', 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': "What does 'reflecting feelings' mean in active listening?", 'options': "Mirroring the speaker's physical movements<I>Identifying and acknowledging the speaker's emotions<I>Ignoring the speaker's emotions<I>Expressing your own feelings", 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': "What is the purpose of using 'minimal encouragers' in active listening?", 'options': "To interrupt the speaker<I>To show the speaker you're not interested<I>To encourage the speaker to continue talking<I>To change the subject", 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'Giving advice is generally discouraged during active listening because:', 'options': 'It is always helpful<I>It can shut down the speaker<I>It saves time<I>It shows you care', 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': 'Which of the following is an example of an open-ended question?', 'options': 'Are you feeling better?<I>Did you enjoy the movie?<I>What are your thoughts on this issue?<I>Is that what you meant?', 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'What is the role of empathy in active listening?', 'options': "To feel sorry for the speaker<I>To understand and share the speaker's feelings<I>To judge the speaker's feelings<I>To ignore the speaker's feelings", 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': 'Active listening helps to build:', 'options': 'Arguments<I>Misunderstandings<I>Rapport and trust<I>Conflict', 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'What is the first step in becoming an active listener?', 'options': 'Formulating a response<I>Avoiding eye contact<I>Paying attention to the speaker<I>Planning your next point', 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'When actively listening, how should you respond to emotional content?', 'options': "Ignore it and focus on the facts<I>Validate and acknowledge the speaker's feelings<I>Tell the speaker how they should feel<I>Change the subject", 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': 'Which of these is NOT a sign of poor listening skills?', 'options': "Interrupting frequently<I>Asking clarifying questions<I>Finishing the speaker's sentences<I>Changing the subject abruptly", 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': "What does 'Suspending Judgment' refers to in active listening?", 'options': "Immediately agreeing with the speaker<I>Critiquing the speaker while they are talking<I>Avoiding forming opinions until you fully understand the speaker's point<I>Ignoring the speaker's message", 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'What is the importance of body language in active listening?', 'options': 'Body language is not important<I>Body language can convey interest and understanding<I>Body language distracts from the message<I>Body language is only for formal situations', 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': 'Why is avoiding distractions important for active listening?', 'options': 'Distractions help the speaker focus<I>Distractions do not affect listening<I>Distractions prevent you from fully understanding the speaker<I>Distractions allow you to multitask', 'correct_answer': '3', 'chosen_answer': None
+    },
+    {'title': 'Which of the following is an example of reflecting content?', 'options': 'Saying "I understand exactly how you feel"<I>Summarizing the speaker\'s key points<I>Offering unsolicited advice<I>Sharing a similar personal experience', 'correct_answer': '2', 'chosen_answer': None
+    },
+    {'title': 'Active listening can lead to:', 'options': 'Increased misunderstandings<I>Stronger relationships<I>More frequent arguments<I>Decreased communication', 'correct_answer': '2', 'chosen_answer': None
+    }
+  ]
+}

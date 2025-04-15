@@ -1,0 +1,726 @@
+[
+  {
+    "title": "Semester 1",
+    "courses": [
+      {
+        "title": "Communicative English",
+        "credits": 3,
+        "periods": 3,
+        "code": "HS5152",
+        "type": "Theory"
+      },
+      {
+        "title": "Calculus",
+        "credits": 4,
+        "periods": 4,
+        "code": "MA5151",
+        "type": "Theory"
+      },
+      {
+        "title": "Applied Physics",
+        "credits": 4,
+        "periods": 4,
+        "code": "PH5152",
+        "type": "Theory"
+      },
+      {
+        "title": "Digital Systems",
+        "credits": 4,
+        "periods": 5,
+        "code": "XC5151",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Problem Solving and C Programming",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5152",
+        "type": "Theory"
+      },
+      {
+        "title": "Communication Skill Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "HS5161",
+        "type": "Lab"
+      },
+      {
+        "title": "C Programming Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5161",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 2",
+    "courses": [
+      {
+        "title": "Technical Communication",
+        "credits": 3,
+        "periods": 3,
+        "code": "HS5252",
+        "type": "Theory"
+      },
+      {
+        "title": "Transform Techniques and Partial Differential Equations",
+        "credits": 4,
+        "periods": 4,
+        "code": "MA5251",
+        "type": "Theory"
+      },
+      {
+        "title": "Chemistry of Materials",
+        "credits": 4,
+        "periods": 4,
+        "code": "CY5253",
+        "type": "Theory"
+      },
+      {
+        "title": "Object Oriented Programming in C++",
+        "credits": 4,
+        "periods": 5,
+        "code": "XC5251",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Data Structures",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5252",
+        "type": "Theory"
+      },
+      {
+        "title": "Computer Architecture",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5253",
+        "type": "Theory"
+      },
+      {
+        "title": "Data Structures Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5261",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 3",
+    "courses": [
+      {
+        "title": "Logic and Abstract Algebra",
+        "credits": 4,
+        "periods": 4,
+        "code": "MA5351",
+        "type": "Theory"
+      },
+      {
+        "title": "Combinatorics and Graph Theory",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5351",
+        "type": "Theory"
+      },
+      {
+        "title": "Microprocessor and Applications",
+        "credits": 4,
+        "periods": 5,
+        "code": "XC5352",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Operating Systems",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5353",
+        "type": "Theory"
+      },
+      {
+        "title": "Signals and Systems",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5354",
+        "type": "Theory"
+      },
+      {
+        "title": "Operating Systems Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5361",
+        "type": "Lab"
+      },
+      {
+        "title": "Python Programming Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5362",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 4",
+    "courses": [
+      {
+        "title": "Probability and Statistics",
+        "credits": 4,
+        "periods": 4,
+        "code": "MA5451",
+        "type": "Theory"
+      },
+      {
+        "title": "Theory of Computation",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5451",
+        "type": "Theory"
+      },
+      {
+        "title": "Database Management Systems",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5452",
+        "type": "Theory"
+      },
+      {
+        "title": "Java and Internet Programming",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5453",
+        "type": "Theory"
+      },
+      {
+        "title": "Computer Networks",
+        "credits": 4,
+        "periods": 5,
+        "code": "XC5454",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Java and Internet Programming Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5461",
+        "type": "Lab"
+      },
+      {
+        "title": "Database Management Systems Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5461",
+        "type": "Lab"
+      },
+      {
+        "title": "Computational Laboratory using R",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5461",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 5",
+    "courses": [
+      {
+        "title": "Cryptography and Data Security",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5501",
+        "type": "Theory"
+      },
+      {
+        "title": "Software Engineering",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5551",
+        "type": "Theory"
+      },
+      {
+        "title": "Data Warehousing and Mining",
+        "credits": 4,
+        "periods": 5,
+        "code": "XT5551",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Design and Analysis of Algorithms",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5552",
+        "type": "Theory"
+      },
+      {
+        "title": "Program Elective I",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": ".NET Programming",
+            "code": "XT5071"
+          },
+          {
+            "title": "Linear Algebra",
+            "code": "MA5071"
+          },
+          {
+            "title": "Information Coding Techniques",
+            "code": "XT5072"
+          },
+          {
+            "title": "Human Computer Interface",
+            "code": "XT5073"
+          },
+          {
+            "title": "Open Source Systems",
+            "code": "XT5074"
+          }
+        ]
+      },
+      {
+        "title": "Program Elective II",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "High Speed Networks",
+            "code": "XC5071"
+          },
+          {
+            "title": "Unix Internals",
+            "code": "XC5072"
+          },
+          {
+            "title": "Database Tuning",
+            "code": "XT5075"
+          },
+          {
+            "title": "Software Project Management",
+            "code": "XT5076"
+          },
+          {
+            "title": "Personal Software Processes",
+            "code": "XT5077"
+          }
+        ]
+      },
+      {
+        "title": "Audit Course",
+        "credits": 0,
+        "periods": 2,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "English for Research Paper Writing",
+            "code": "AX5091"
+          },
+          {
+            "title": "Disaster Management",
+            "code": "AX5092"
+          },
+          {
+            "title": "Sanskrit for Technical Knowledge",
+            "code": "AX5093"
+          },
+          {
+            "title": "Value Education",
+            "code": "AX5094"
+          },
+          {
+            "title": "Constitution of India",
+            "code": "AX5095"
+          },
+          {
+            "title": "Pedagogy Studies",
+            "code": "AX5096"
+          },
+          {
+            "title": "Stress Management by Yoga",
+            "code": "AX5097"
+          },
+          {
+            "title": "Personality Development through Life Enlightenment Skills",
+            "code": "AX5098"
+          },
+          {
+            "title": "Unnat Bharath Abhiyan",
+            "code": "AX5099"
+          }
+        ]
+      },
+      {
+        "title": "Software Development Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5561",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 6",
+    "courses": [
+      {
+        "title": "Operations Research",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5651",
+        "type": "Theory"
+      },
+      {
+        "title": "Principles of Compiler Design",
+        "credits": 3,
+        "periods": 3,
+        "code": "XC5601",
+        "type": "Theory"
+      },
+      {
+        "title": "Web Technology",
+        "credits": 3,
+        "periods": 3,
+        "code": "XT5651",
+        "type": "Theory"
+      },
+      {
+        "title": "Artificial Intelligence",
+        "credits": 4,
+        "periods": 4,
+        "code": "XC5652",
+        "type": "Theory"
+      },
+      {
+        "title": "Program Elective III",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "Visualization Techniques",
+            "code": "XT5078"
+          },
+          {
+            "title": "Digital Image Processing",
+            "code": "XT5079"
+          },
+          {
+            "title": "Network Programming",
+            "code": "XC5073"
+          },
+          {
+            "title": "Soft Computing",
+            "code": "XT5080"
+          },
+          {
+            "title": "Natural Language Processing",
+            "code": "XC5074"
+          },
+          {
+            "title": "Information Security",
+            "code": "XT5081"
+          }
+        ]
+      },
+      {
+        "title": "Compiler Design Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5611",
+        "type": "Lab"
+      },
+      {
+        "title": "Mini Project",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5612",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 7",
+    "courses": [
+      {
+        "title": "Industrial Project",
+        "credits": 16,
+        "periods": 32,
+        "code": "XC5711",
+        "type": "Theory"
+      }
+    ]
+  },
+  {
+    "title": "Semester 8",
+    "courses": [
+      {
+        "title": "Advanced Statistical Methods for Computing",
+        "credits": 4,
+        "periods": 4,
+        "code": "MA5851",
+        "type": "Theory"
+      },
+      {
+        "title": "Big Data Analytics",
+        "credits": 4,
+        "periods": 5,
+        "code": "XT5851",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Distributed and Cloud Computing",
+        "credits": 4,
+        "periods": 5,
+        "code": "XT5852",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Environmental Science and Engineering",
+        "credits": 3,
+        "periods": 3,
+        "code": "GE5851",
+        "type": "Theory"
+      },
+      {
+        "title": "Program Elective IV",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "Adhoc and Sensor Networks",
+            "code": "XT5082"
+          },
+          {
+            "title": "Information Retrieval Techniques",
+            "code": "XT5083"
+          },
+          {
+            "title": "Semantic Web",
+            "code": "XT5084"
+          },
+          {
+            "title": "Performance Evaluation of Systems and Networks",
+            "code": "XT5085"
+          },
+          {
+            "title": "Bio Informatics",
+            "code": "XT5086"
+          },
+          {
+            "title": "Total Quality Management",
+            "code": "XT5087"
+          }
+        ]
+      },
+      {
+        "title": "Open Elective I",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "Graph Theory",
+            "code": "MA5891"
+          },
+          {
+            "title": "Statistical Methods",
+            "code": "MA5991"
+          }
+        ]
+      },
+      {
+        "title": "Audit Course II",
+        "credits": 0,
+        "periods": 2,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "English for Research Paper Writing",
+            "code": "AX5091"
+          },
+          {
+            "title": "Disaster Management",
+            "code": "AX5092"
+          },
+          {
+            "title": "Sanskrit for Technical Knowledge",
+            "code": "AX5093"
+          },
+          {
+            "title": "Value Education",
+            "code": "AX5094"
+          },
+          {
+            "title": "Constitution of India",
+            "code": "AX5095"
+          },
+          {
+            "title": "Pedagogy Studies",
+            "code": "AX5096"
+          },
+          {
+            "title": "Stress Management by Yoga",
+            "code": "AX5097"
+          },
+          {
+            "title": "Personality Development through Life Enlightenment Skills",
+            "code": "AX5098"
+          },
+          {
+            "title": "Unnat Bharath Abhiyan",
+            "code": "AX5099"
+          }
+        ]
+      },
+      {
+        "title": "Creative and Innovative Project",
+        "credits": 2,
+        "periods": 4,
+        "code": "XC5811",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 9",
+    "courses": [
+      {
+        "title": "Numerical Methods",
+        "credits": 4,
+        "periods": 4,
+        "code": "MA5951",
+        "type": "Theory"
+      },
+      {
+        "title": "Internet of Things",
+        "credits": 3,
+        "periods": 3,
+        "code": "XT5951",
+        "type": "Theory"
+      },
+      {
+        "title": "Advanced Machine Learning Techniques",
+        "credits": 4,
+        "periods": 5,
+        "code": "XC5951",
+        "type": "Lab+Theory"
+      },
+      {
+        "title": "Program Elective V",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "3G and 4G Wireless Networks",
+            "code": "XT5088"
+          },
+          {
+            "title": "Computational Linguistics",
+            "code": "XC5078"
+          },
+          {
+            "title": "Mobile and Persausive Computing",
+            "code": "XT5089"
+          },
+          {
+            "title": "Computer Vision",
+            "code": "XC5076"
+          },
+          {
+            "title": "Biometrics",
+            "code": "XC5077"
+          }
+        ]
+      },
+      {
+        "title": "Program Elective VI",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "Multimedia Information Storage and Retrieval",
+            "code": "XT5090"
+          },
+          {
+            "title": "Game Programming",
+            "code": "XT5091"
+          },
+          {
+            "title": "Augmented Reality and Virtual Reality",
+            "code": "XT5092"
+          },
+          {
+            "title": "Pattern Recognition",
+            "code": "XC5078"
+          },
+          {
+            "title": "Multimedia Tools and Techniques",
+            "code": "XT5093"
+          },
+          {
+            "title": "Software Testing and Quality Assurance",
+            "code": "XC5079"
+          }
+        ]
+      },
+      {
+        "title": "Open Elective II",
+        "credits": 3,
+        "periods": 3,
+        "code": "",
+        "type": "Theory",
+        "choices": [
+          {
+            "title": "Graph Theory",
+            "code": "MA5891"
+          },
+          {
+            "title": "Statistical Methods",
+            "code": "MA5991"
+          }
+        ]
+      },
+      {
+        "title": "Numerical Methods Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "MA5961",
+        "type": "Lab"
+      },
+      {
+        "title": "Internet of Things Laboratory",
+        "credits": 2,
+        "periods": 4,
+        "code": "XT5961",
+        "type": "Lab"
+      }
+    ]
+  },
+  {
+    "title": "Semester 10",
+    "courses": [
+      {
+        "title": "Project Work",
+        "credits": 18,
+        "periods": 36,
+        "code": "XC5011",
+        "type": "Theory"
+      }
+    ]
+  }
+]

@@ -1,0 +1,438 @@
+{
+        "id": null,
+        "title": "Operating Systems",
+        "credit": 3,
+        "periods": 3,
+        "description": null,
+        "start_date": "2025-07-15",
+        "end_date": "2025-11-15",
+        "Exams": [
+            {
+                "id": null,
+                "title": "Assessment 1",
+                "type": "Assesment 1",
+                "rank": 5,
+                "start_date": "2025-09-02",
+                "end_date": "2025-09-06",
+                "status": "Scheduled",
+                "mark": null,
+                "user_id": null,
+                "semester_id": null
+            },
+            {
+                "id": null,
+                "title": "Assessment 2",
+                "type": "Assesment 2",
+                "rank": 10,
+                "start_date": "2025-10-21",
+                "end_date": "2025-10-24",
+                "status": "Scheduled",
+                "mark": null,
+                "user_id": null,
+                "semester_id": null
+            },
+            {
+                "id": null,
+                "title": "End Semester",
+                "type": "End Semester",
+                "rank": 15,
+                "start_date": "2025-11-10",
+                "end_date": "2025-11-15",
+                "status": "Scheduled",
+                "mark": null,
+                "user_id": null,
+                "semester_id": null
+            }
+        ],
+        "Books": [],
+        "Weeks": [
+            {
+                "id": null,
+                "title": "Week 1: Introduction to Operating Systems",
+                "rank": 1,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "What is an Operating System?",
+                        "description": "Overview of OS goals, functions, and components.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Computer System Organization",
+                        "description": "Hardware, software, and OS interaction.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Operating System Structures",
+                        "description": "Kernel, shell, system calls.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Ongoing",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 2: Process Management",
+                "rank": 2,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Process Concept",
+                        "description": "Process definition, states, and control block.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Process Scheduling",
+                        "description": "Scheduling queues, schedulers, context switch.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Operations on Processes",
+                        "description": "Creation, termination, and management.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 3: CPU Scheduling",
+                "rank": 3,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Basic Concepts",
+                        "description": "CPU utilization, throughput, turnaround time, waiting time, response time.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Scheduling Algorithms",
+                        "description": "FCFS, SJF, Priority Scheduling, Round Robin.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 4: Process Synchronization",
+                "rank": 4,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Background",
+                        "description": "Race conditions, critical sections.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Peterson's Solution",
+                        "description": "A classic software-based solution.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Synchronization Hardware",
+                        "description": "Semaphores, mutex locks.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 5: Deadlocks",
+                "rank": 6,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "System Model",
+                        "description": "Resources, deadlock conditions.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Deadlock Characterization",
+                        "description": "Necessary conditions for deadlock.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Deadlock Prevention",
+                        "description": "Strategies to prevent deadlocks.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 6: Memory Management",
+                "rank": 7,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Background",
+                        "description": "Basic memory management, swapping.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Contiguous Memory Allocation",
+                        "description": "Partitioning, fragmentation.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Paging",
+                        "description": "Basic method, address translation.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 7: Virtual Memory",
+                "rank": 8,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Background",
+                        "description": "Demand paging, page fault.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Page Replacement",
+                        "description": "FIFO, LRU, Optimal.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Allocation of Frames",
+                        "description": "Thrashing.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 8: File System Interface",
+                "rank": 9,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "File Concept",
+                        "description": "File attributes, operations.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Access Methods",
+                        "description": "Sequential access, direct access.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Directory Structure",
+                        "description": "Organization, operations.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 9: File System Implementation",
+                "rank": 11,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "File System Structure",
+                        "description": "Layers, metadata.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "File System Operations",
+                        "description": "Allocation methods, free-space management.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Directory Implementation",
+                        "description": "Linear list, hash table.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 10: I/O Systems",
+                "rank": 12,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Overview",
+                        "description": "I/O hardware, application I/O interface.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Kernel I/O Subsystem",
+                        "description": "Buffering, caching, spooling.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Disk Management",
+                        "description": "Disk structure, scheduling.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 11: Protection and Security",
+                "rank": 13,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Goals of Protection",
+                        "description": "Principles, domain of protection.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Access Matrix",
+                        "description": "Implementation of access matrix.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Security Problems",
+                        "description": "Threats, attacks.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            },
+            {
+                "id": null,
+                "title": "Week 12: Case Studies",
+                "rank": 14,
+                "Topics": [
+                    {
+                        "id": null,
+                        "title": "Linux Operating System",
+                        "description": "Overview and key features.",
+                        "resources": null,
+                        "status": "Pending"
+                    },
+                    {
+                        "id": null,
+                        "title": "Windows Operating System",
+                        "description": "Overview and key features.",
+                        "resources": null,
+                        "status": "Pending"
+                    }
+                ],
+                "course_id": null,
+                "quiz_id": null,
+                "user_id": null,
+                "status": "Pending",
+                "attendance": null
+            }
+        ],
+        "user_id": null,
+        "semester_id": null,
+        "status": "Active",
+        "mark": null,
+        "attendance": null,
+        "type": "Theory"
+}
